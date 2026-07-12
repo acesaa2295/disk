@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/acesaa2295/disk/tree/master/1331-rank-transform-of-an-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/acesaa2295/disk/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/acesaa2295/disk/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/acesaa2295/disk/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/acesaa2295/disk/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -56,12 +58,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/acesaa2295/disk/tree/master/2685-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/acesaa2295/disk/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/acesaa2295/disk/tree/master/2685-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/acesaa2295/disk/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/acesaa2295/disk/tree/master/1331-rank-transform-of-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/acesaa2295/disk/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/acesaa2295/disk/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
