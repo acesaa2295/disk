@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/acesaa2295/disk/tree/master/0004-median-of-two-sorted-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/acesaa2295/disk/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/acesaa2295/disk/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/acesaa2295/disk/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/acesaa2295/disk/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/acesaa2295/disk/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/acesaa2295/disk/tree/master/0002-add-two-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/acesaa2295/disk/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/acesaa2295/disk/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/acesaa2295/disk/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Recursion
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/acesaa2295/disk/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/acesaa2295/disk/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/acesaa2295/disk/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Divide and Conquer
